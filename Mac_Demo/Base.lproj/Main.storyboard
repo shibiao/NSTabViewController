@@ -758,12 +758,12 @@
         <!--Tab View Controller-->
         <scene sceneID="MDC-cj-ldE">
             <objects>
-                <tabViewController selectedTabViewItemIndex="0" id="N4H-Su-cMK" sceneMemberID="viewController">
+                <tabViewController selectedTabViewItemIndex="0" tabStyle="unspecified" id="N4H-Su-cMK" sceneMemberID="viewController">
                     <tabViewItems>
                         <tabViewItem id="6XA-Nt-Wfw"/>
                         <tabViewItem id="dez-6c-UNv"/>
                     </tabViewItems>
-                    <tabView key="tabView" type="noTabsNoBorder" id="5pZ-ec-i8W">
+                    <tabView key="tabView" id="5pZ-ec-i8W">
                         <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <font key="font" metaFont="message"/>
